@@ -15,6 +15,7 @@ CJ Miller and Jesse Shellabarger
 * `gui` : Opens a JFrame that allows manual switching of the local Philosopher
 * `hungry` : Forces the local Philosopher into the hungry state
 * `thinking` : Forces the local Philosopher into the thinking state
+* `thirsty` : Forces the client to be thirsty
 
 ## Incentive
 * GUI (via the `gui` command)
